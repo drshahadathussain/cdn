@@ -97,15 +97,3 @@ For inquiries regarding collaborations, media usage, or professional opportuniti
 
 
 ---
-
-### 💡 Why this README works well for your goals:
-1. **Immediate Context**: Anyone landing here instantly knows who you are and what the repo does.
-2. **Professional Branding**: It reinforces your expertise in AM, TPMS, and Materials Science without being overly verbose.
-3. **Developer/Recruiter Friendly**: The "How to Use" section makes it incredibly easy for a web developer (or you) to grab the correct URLs for your main website.
-4. **Identity Verification**: The table of identifiers acts as a "trust anchor," proving that this CDN is the legitimate, official source for your digital assets.
-5. **Copyright Protection**: The license section politely but firmly protects your intellectual property (especially important for research diagrams and CVs).
-
-### 🛠️ Next Steps for You:
-1. Create the folder structure (`images/profile`, `documents/cv`, etc.) in your GitHub repo to match the README.
-2. Upload your assets with clear, versioned filenames (e.g., `Shahadat_Hussain_CV_2024.pdf`).
-3. Ensure your GitHub repository settings have **GitHub Pages** enabled (if you are using it to serve the subdomain) or that your DNS/CNAME is correctly pointing `cdn.shahadathussain.com` to the raw GitHub content endpoint.
