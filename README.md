@@ -75,7 +75,6 @@ To ensure authentic representation and avoid impersonation, my professional iden
 | **📚 Google Scholar** | [Citations Profile](https://scholar.google.com/citations?user=tQNSWaAAAAAJ&hl=en) |
 | **🔬 Scopus** | [Author ID: 56380929800](https://www.scopus.com/authid/detail.uri?authorId=56380929800) |
 | **🏛️ Web of Science** | [Researcher Record](https://www.webofscience.com/wos/author/record/I-3091-2017) |
-| **🌍 Wikidata** | [Q138333037](https://www.wikidata.org/wiki/Q138333037) |
 | **🔗 Web3 Identity** | `shahadathussain.eth` |
 
 ---
