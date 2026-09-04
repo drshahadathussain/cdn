@@ -89,7 +89,7 @@ To ensure authentic representation and avoid impersonation, my professional iden
 
 ## 📬 Contact
 For inquiries regarding collaborations, media usage, or professional opportunities, please reach out via:
-- **Email**: [Your Professional Email, e.g., shahadat.hussain@nyu.edu or similar]
+- **Email**: contact@shahadathussain.com
 - **Website Contact Form**: [shahadathussain.com/contact](https://www.shahadathussain.com)
 
 ---
