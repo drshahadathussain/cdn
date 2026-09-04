@@ -89,7 +89,7 @@ To ensure authentic representation and avoid impersonation, my professional iden
 
 ## 📬 Contact
 For inquiries regarding collaborations, media usage, or professional opportunities, please reach out via:
-- **Email**: contact@shahadathussain.com
+- **Email**: [contact@shahadathussain.com](mailto:contact@shahadathussain.com)
 - **Website Contact Form**: [shahadathussain.com/contact](https://www.shahadathussain.com/contact)
 
 ---
