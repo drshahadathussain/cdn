@@ -69,7 +69,6 @@ To ensure authentic representation and avoid impersonation, my professional iden
 | :--- | :--- |
 | **🌐 Personal Website** | [shahadathussain.com](https://www.shahadathussain.com) |
 | **🆔 ORCID** | [0000-0002-4355-2169](https://orcid.org/0000-0002-4355-2169) |
-| **🔢 ISNI** | [0000 0005 3020 7229](https://isni.org/isni/0000000530207229) |
 | **💼 LinkedIn** | [linkedin.com/in/shahadathussain](https://www.linkedin.com/in/shahadathussain) |
 | **🎓 OpenAlex** | [Author Profile](https://openalex.org/authors/a5063248081) |
 | **📚 Google Scholar** | [Citations Profile](https://scholar.google.com/citations?user=tQNSWaAAAAAJ&hl=en) |
